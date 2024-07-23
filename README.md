@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/heyitzmeaditya/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0414-third-maximum-number) |
 | [0875-longest-mountain-in-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/heyitzmeaditya/Leetcode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/heyitzmeaditya/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0978-valid-mountain-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [2058-concatenation-of-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/heyitzmeaditya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0898-transpose-matrix) |
+| [2058-concatenation-of-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |

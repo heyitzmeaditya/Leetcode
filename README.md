@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/heyitzmeaditya/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0978-valid-mountain-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
 | [1677-matrix-diagonal-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/heyitzmeaditya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0981-delete-columns-to-make-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
 ## Divide and Conquer
 |  |
 | ------- |

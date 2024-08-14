@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/heyitzmeaditya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0981-delete-columns-to-make-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/heyitzmeaditya/Leetcode/tree/master/0050-powx-n) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

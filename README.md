@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/heyitzmeaditya/Leetcode/tree/master/0027-remove-element) |
+| [0059-spiral-matrix-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitzmeaditya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/heyitzmeaditya/Leetcode/tree/master/0164-maximum-gap) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/heyitzmeaditya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Bucket Sort

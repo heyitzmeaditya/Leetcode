@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/heyitzmeaditya/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/heyitzmeaditya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0598-range-addition-ii) |
+| [1086-divisor-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/1086-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heyitzmeaditya/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-longest-mountain-in-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [1086-divisor-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/1086-divisor-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->

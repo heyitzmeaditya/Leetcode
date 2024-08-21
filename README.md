@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-longest-mountain-in-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0941-sort-array-by-parity](https://github.com/heyitzmeaditya/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [2481-strictly-palindromic-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0598-range-addition-ii) |
 | [0909-stone-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/1086-divisor-game) |
+| [2481-strictly-palindromic-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/1086-divisor-game) |
+| [2481-strictly-palindromic-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |

@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/heyitzmeaditya/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/heyitzmeaditya/Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/heyitzmeaditya/Leetcode/tree/master/0326-power-of-three) |
 ## Trie
@@ -210,5 +211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/heyitzmeaditya/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

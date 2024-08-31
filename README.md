@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/heyitzmeaditya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0981-delete-columns-to-make-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Simulation
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Queue
 |  |
 | ------- |

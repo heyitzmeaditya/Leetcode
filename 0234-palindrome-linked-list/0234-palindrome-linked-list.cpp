@@ -11,55 +11,26 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-
         if(head->next==NULL){
             return 1;
         }
-
-        //count total elements
-        int count=0;
+        vector<int>arr;
         ListNode *temp=head;
-        while(temp!=NULL){
+        while(temp){
+            arr.push_back(temp->val);
             temp=temp->next;
-            count++;
         }
-        count=count/2;
-
-        //break in to two parts
-        ListNode *prev=NULL,*curr=head;
-        while(count--){
-            prev=curr;
-            curr=curr->next;
-        }
-        prev->next =NULL;//List broken
-
-        //reverse 2nd linked list
-        
-        ListNode *fut;
-        prev=NULL;
-        while(curr){
-            fut=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=fut;
-
-        }
-
-        ListNode *head1=head,*head2=prev;
-        while(head1){
-            if(head1->val!=head2->val){
+       
+        int start=0,end=arr.size()-1;
+        while(start<end){
+            if(arr[start]!=arr[end]){
                 return 0;
-
             }
-            
-            head1=head1->next;
-            head2=head2->next;
-            
+            start++;end--;
+           
         }
         return 1;
-
-
-
+        
         
     }
 };

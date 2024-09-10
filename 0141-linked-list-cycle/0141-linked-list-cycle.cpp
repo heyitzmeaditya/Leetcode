@@ -8,28 +8,18 @@
  */
 class Solution {
 public:
-
-    bool check(vector<ListNode *>visited,ListNode *curr){
-        for(int i=0;i<visited.size();i++){
-            if(curr==visited[i]){
-                return 1;
-
-
-            }
-            
-        }
-        return 0;
-    }
     bool hasCycle(ListNode *head) {
-        vector<ListNode*>visited;
         ListNode *curr=head;
-        while(curr){
-            if(check(visited,curr)){
+        unordered_map<ListNode*,bool>visited;
+
+        while(curr!=NULL){
+            if(visited[curr]==1){
                 return 1;
             }
-            visited.push_back(curr);
+
+            visited[curr]=1;
             curr=curr->next;
-        }
+        };
         return 0;
 
         

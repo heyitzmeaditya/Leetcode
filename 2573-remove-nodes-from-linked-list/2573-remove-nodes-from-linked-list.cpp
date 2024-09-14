@@ -1,31 +1,32 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode *prev=NULL,*curr=head,*nxt=NULL;
-        while(curr)
-        {
-            nxt=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=nxt;
+        ListNode *previousNode = NULL;
+        ListNode *currentNode = head;
+        ListNode *nextNode = NULL;
+
+        while (currentNode) {
+            nextNode = currentNode->next;
+            currentNode->next = previousNode;
+            previousNode = currentNode;
+            currentNode = nextNode;
         }
-        return head=prev;
+        return head = previousNode;
     }
+
     ListNode* removeNodes(ListNode* head) {
         head = reverseList(head);
-        int max = head->val;
-        ListNode *p = head;
-        while(p->next != NULL)
-        {
-            if(p->next->val < p->val)
-            {
-                p->next = p->next->next;
-            }
-            else
-            {
-                p = p->next;
+        int maximumValue = head->val;
+        ListNode *pointer = head;
+
+        while (pointer->next != NULL) {
+            if (pointer->next->val < pointer->val) {
+                pointer->next = pointer->next->next;
+            } else {
+                pointer = pointer->next;
             }
         }
+        
         head = reverseList(head);
         return head;
     }

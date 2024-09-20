@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/heyitzmeaditya/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/heyitzmeaditya/Leetcode/tree/master/0412-fizz-buzz) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/heyitzmeaditya/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heyitzmeaditya/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/heyitzmeaditya/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyitzmeaditya/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/heyitzmeaditya/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2573-remove-nodes-from-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |

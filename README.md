@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/heyitzmeaditya/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0598-range-addition-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0598-range-addition-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
 ## Divide and Conquer
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyitzmeaditya/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/heyitzmeaditya/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/heyitzmeaditya/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2573-remove-nodes-from-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -283,5 +286,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2573-remove-nodes-from-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->

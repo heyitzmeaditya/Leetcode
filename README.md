@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/heyitzmeaditya/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/heyitzmeaditya/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/heyitzmeaditya/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/heyitzmeaditya/Leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/heyitzmeaditya/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/heyitzmeaditya/Leetcode/tree/master/0326-power-of-three) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/heyitzmeaditya/Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/heyitzmeaditya/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/heyitzmeaditya/Leetcode/tree/master/0392-is-subsequence) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/heyitzmeaditya/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/heyitzmeaditya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/heyitzmeaditya/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/heyitzmeaditya/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0137-single-number-ii) |
 ## Heap (Priority Queue)

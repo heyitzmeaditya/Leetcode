@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/heyitzmeaditya/Leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/heyitzmeaditya/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/heyitzmeaditya/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/heyitzmeaditya/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/heyitzmeaditya/Leetcode/tree/master/0076-minimum-window-substring) |

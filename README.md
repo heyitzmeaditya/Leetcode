@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/heyitzmeaditya/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/heyitzmeaditya/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2195-time-needed-to-buy-tickets](https://github.com/heyitzmeaditya/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyitzmeaditya/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/heyitzmeaditya/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/heyitzmeaditya/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -360,5 +362,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/heyitzmeaditya/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/heyitzmeaditya/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

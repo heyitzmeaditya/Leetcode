@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/heyitzmeaditya/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/heyitzmeaditya/Leetcode/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/heyitzmeaditya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/heyitzmeaditya/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/heyitzmeaditya/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/heyitzmeaditya/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/heyitzmeaditya/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Queue
 |  |

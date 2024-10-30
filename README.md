@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/heyitzmeaditya/Leetcode/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0598-range-addition-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0598-range-addition-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/heyitzmeaditya/Leetcode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/heyitzmeaditya/Leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/heyitzmeaditya/Leetcode/tree/master/0412-fizz-buzz) |
+| [0523-continuous-subarray-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/heyitzmeaditya/Leetcode/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/heyitzmeaditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/heyitzmeaditya/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Design
 |  |
 | ------- |

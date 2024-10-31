@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/heyitzmeaditya/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/heyitzmeaditya/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/heyitzmeaditya/Leetcode/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/heyitzmeaditya/Leetcode/tree/master/0817-design-hashmap) |
 | [0875-longest-mountain-in-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/0909-stone-game) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0817-design-hashmap](https://github.com/heyitzmeaditya/Leetcode/tree/master/0817-design-hashmap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
 ## Divide and Conquer
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/heyitzmeaditya/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/heyitzmeaditya/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/heyitzmeaditya/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0817-design-hashmap](https://github.com/heyitzmeaditya/Leetcode/tree/master/0817-design-hashmap) |
 ## Quickselect
 |  |
 | ------- |
@@ -422,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/heyitzmeaditya/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/heyitzmeaditya/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->

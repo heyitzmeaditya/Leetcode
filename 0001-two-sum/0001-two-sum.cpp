@@ -8,23 +8,26 @@ public:
         while(start<end){
             if(ans[start]+ans[end]==target){
                 break;
+
             }
-            else if(ans[start]+ans[end]>target){
-                end--;
-            }
-            else{
+            else if(ans[start]+ans[end]<target){
                 start++;
             }
-
+            else{
+                end--;
+            }
         }
         vector<int>res;
         for(int i=0;i<nums.size();i++){
             if(ans[start]==nums[i]){
                 res.push_back(i);
+
             }
             else if(ans[end]==nums[i]){
                 res.push_back(i);
             }
+
+            
         }
         return res;
         

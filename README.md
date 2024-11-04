@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/heyitzmeaditya/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/heyitzmeaditya/Leetcode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/heyitzmeaditya/Leetcode/tree/master/0396-rotate-function) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/heyitzmeaditya/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/heyitzmeaditya/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0556-next-greater-element-iii) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/heyitzmeaditya/Leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/heyitzmeaditya/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

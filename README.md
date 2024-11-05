@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/heyitzmeaditya/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/heyitzmeaditya/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/heyitzmeaditya/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/heyitzmeaditya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/heyitzmeaditya/Leetcode/tree/master/0319-bulb-switcher) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/heyitzmeaditya/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/heyitzmeaditya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/heyitzmeaditya/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitzmeaditya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -435,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/heyitzmeaditya/Leetcode/tree/master/0817-design-hashmap) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/heyitzmeaditya/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/heyitzmeaditya/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/heyitzmeaditya/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/heyitzmeaditya/Leetcode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/heyitzmeaditya/Leetcode/tree/master/0319-bulb-switcher) |

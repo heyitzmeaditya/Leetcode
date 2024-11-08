@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/heyitzmeaditya/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
+| [2887-sort-vowels-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Simulation
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/heyitzmeaditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/heyitzmeaditya/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/heyitzmeaditya/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [2887-sort-vowels-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |

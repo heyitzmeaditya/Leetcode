@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/heyitzmeaditya/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/heyitzmeaditya/Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/heyitzmeaditya/Leetcode/tree/master/0817-design-hashmap) |
+| [0830-largest-triangle-area](https://github.com/heyitzmeaditya/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0875-longest-mountain-in-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/0909-stone-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/heyitzmeaditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/heyitzmeaditya/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0830-largest-triangle-area](https://github.com/heyitzmeaditya/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0944-smallest-range-i) |
 | [1086-divisor-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/1086-divisor-game) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/heyitzmeaditya/Leetcode/tree/master/0593-valid-square) |
+| [0830-largest-triangle-area](https://github.com/heyitzmeaditya/Leetcode/tree/master/0830-largest-triangle-area) |
 ## Linked List
 |  |
 | ------- |

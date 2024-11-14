@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/heyitzmeaditya/Leetcode/tree/master/0223-rectangle-area) |
 | [0319-bulb-switcher](https://github.com/heyitzmeaditya/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/heyitzmeaditya/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/heyitzmeaditya/Leetcode/tree/master/0342-power-of-four) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/heyitzmeaditya/Leetcode/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/heyitzmeaditya/Leetcode/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/heyitzmeaditya/Leetcode/tree/master/0830-largest-triangle-area) |
 ## Linked List

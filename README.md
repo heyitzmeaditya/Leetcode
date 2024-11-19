@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/heyitzmeaditya/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/heyitzmeaditya/Leetcode/tree/master/0289-game-of-life) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/heyitzmeaditya/Leetcode/tree/master/0223-rectangle-area) |
+| [0268-missing-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/heyitzmeaditya/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/heyitzmeaditya/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/heyitzmeaditya/Leetcode/tree/master/0342-power-of-four) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/heyitzmeaditya/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/heyitzmeaditya/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/heyitzmeaditya/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/heyitzmeaditya/Leetcode/tree/master/0383-ransom-note) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/heyitzmeaditya/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/heyitzmeaditya/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0414-third-maximum-number) |
@@ -363,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/heyitzmeaditya/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/heyitzmeaditya/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/heyitzmeaditya/Leetcode/tree/master/0371-sum-of-two-integers) |

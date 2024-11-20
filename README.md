@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/heyitzmeaditya/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/heyitzmeaditya/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/heyitzmeaditya/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/heyitzmeaditya/Leetcode/tree/master/0049-group-anagrams) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/heyitzmeaditya/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/heyitzmeaditya/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/heyitzmeaditya/Leetcode/tree/master/0070-climbing-stairs) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heyitzmeaditya/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |

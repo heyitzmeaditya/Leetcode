@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/heyitzmeaditya/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/heyitzmeaditya/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/heyitzmeaditya/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/heyitzmeaditya/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0047-permutations-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/heyitzmeaditya/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/heyitzmeaditya/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/heyitzmeaditya/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/heyitzmeaditya/Leetcode/tree/master/0128-longest-consecutive-sequence) |

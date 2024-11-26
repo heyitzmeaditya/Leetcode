@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/heyitzmeaditya/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1677-matrix-diagonal-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/heyitzmeaditya/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/heyitzmeaditya/Leetcode/tree/master/0817-design-hashmap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/heyitzmeaditya/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/heyitzmeaditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/heyitzmeaditya/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/heyitzmeaditya/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/heyitzmeaditya/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2887-sort-vowels-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/heyitzmeaditya/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/heyitzmeaditya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/heyitzmeaditya/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Sliding Window
 |  |
 | ------- |

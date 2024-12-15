@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/heyitzmeaditya/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/heyitzmeaditya/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/heyitzmeaditya/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/heyitzmeaditya/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/heyitzmeaditya/Leetcode/tree/master/0075-sort-colors) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/heyitzmeaditya/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/heyitzmeaditya/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/heyitzmeaditya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/heyitzmeaditya/Leetcode/tree/master/0118-pascals-triangle) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heyitzmeaditya/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |

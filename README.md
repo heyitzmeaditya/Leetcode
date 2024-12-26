@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/heyitzmeaditya/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0944-smallest-range-i) |
+| [1013-fibonacci-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/heyitzmeaditya/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-longest-mountain-in-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/1086-divisor-game) |
 ## Enumeration
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/heyitzmeaditya/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/heyitzmeaditya/Leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
 |  |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/heyitzmeaditya/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/1013-fibonacci-number) |
 ## Reservoir Sampling
 |  |
 | ------- |

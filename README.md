@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/heyitzmeaditya/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/heyitzmeaditya/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/heyitzmeaditya/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1677-matrix-diagonal-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/heyitzmeaditya/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/heyitzmeaditya/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Math
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/heyitzmeaditya/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/heyitzmeaditya/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/heyitzmeaditya/Leetcode/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/heyitzmeaditya/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/heyitzmeaditya/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/heyitzmeaditya/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/heyitzmeaditya/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/heyitzmeaditya/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/heyitzmeaditya/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2887-sort-vowels-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |

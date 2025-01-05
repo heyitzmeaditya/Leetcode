@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/heyitzmeaditya/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2358-number-of-ways-to-split-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/heyitzmeaditya/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/heyitzmeaditya/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [2358-number-of-ways-to-split-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Design
 |  |
 | ------- |

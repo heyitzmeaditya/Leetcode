@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
 | [2887-sort-vowels-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/heyitzmeaditya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Simulation
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/heyitzmeaditya/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/heyitzmeaditya/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/heyitzmeaditya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/heyitzmeaditya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/heyitzmeaditya/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/heyitzmeaditya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
 | ------- |

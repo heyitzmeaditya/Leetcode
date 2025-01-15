@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2507-number-of-common-factors](https://github.com/heyitzmeaditya/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [2507-number-of-common-factors](https://github.com/heyitzmeaditya/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Greedy
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/heyitzmeaditya/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/heyitzmeaditya/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2358-number-of-ways-to-split-array](https://github.com/heyitzmeaditya/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2476-check-distances-between-same-letters](https://github.com/heyitzmeaditya/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/heyitzmeaditya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/heyitzmeaditya/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/heyitzmeaditya/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
+| [2476-check-distances-between-same-letters](https://github.com/heyitzmeaditya/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2887-sort-vowels-in-a-string](https://github.com/heyitzmeaditya/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/heyitzmeaditya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/heyitzmeaditya/Leetcode/tree/master/1044-find-common-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/heyitzmeaditya/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/heyitzmeaditya/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2476-check-distances-between-same-letters](https://github.com/heyitzmeaditya/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/heyitzmeaditya/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/heyitzmeaditya/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer

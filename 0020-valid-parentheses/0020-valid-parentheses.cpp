@@ -8,25 +8,17 @@ public:
             }
             else{
                 if(st.empty()){
-                    return 0;
+                    return false;
                 }
-                else{
-                    if((s[i] == ')' && st.top() == '(') ||
-                   (s[i] == '}' && st.top() == '{') ||
-                   (s[i] == ']' && st.top() == '[')){
-                        ;st.pop();
-                    }
-                    else{
-                        return 0;
-                    }
+                char top=st.top();
+                st.pop();
+                if(top=='('&&s[i]!=')'||top=='{'&&s[i]!='}'||top=='['&&s[i]!=']'){
+                    return false;
                 }
+                
             }
-            
-
-
         }
         return st.empty();
-        
         
     }
 };

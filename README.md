@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/heyitzmeaditya/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/heyitzmeaditya/Leetcode/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/heyitzmeaditya/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/heyitzmeaditya/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/heyitzmeaditya/Leetcode/tree/master/0326-power-of-three) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/heyitzmeaditya/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/heyitzmeaditya/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/heyitzmeaditya/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/heyitzmeaditya/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/heyitzmeaditya/Leetcode/tree/master/0342-power-of-four) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/heyitzmeaditya/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/heyitzmeaditya/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/heyitzmeaditya/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/heyitzmeaditya/Leetcode/tree/master/0342-power-of-four) |

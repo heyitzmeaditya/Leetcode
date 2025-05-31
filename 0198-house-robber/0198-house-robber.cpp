@@ -1,25 +1,25 @@
 class Solution {
 public:
-    int robbery(int n,vector<int>&nums,vector<int>&dp){
+    int robbery(int n,vector<int>&nums){
         if(n<0){
             return 0;
         }
         if(n==0){
             return nums[0];
         }
-       
-        dp[0]=nums[0];
-        dp[1]=max(nums[0],nums[1]);
-        for(int i=2;i<=n;i++){
-            dp[i]=max(nums[i]+dp[i-2],dp[i-1]);
-        }
 
-        return dp[n];
+        int prev2=nums[0],prev1=max(nums[0],nums[1]),curr=prev1;
+        for(int i=2;i<=n;i++){
+        curr=max(nums[i]+prev2,prev1);
+        prev2=prev1;
+        prev1=curr;
+        }
+        return curr;
     }
+    
     int rob(vector<int>& nums) {
         int n=nums.size();
-        vector<int>dp(n,-1);
-        return robbery(n-1,nums,dp);
+        return robbery(n-1,nums);
         
     }
 };

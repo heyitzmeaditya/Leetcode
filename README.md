@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/heyitzmeaditya/Leetcode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/heyitzmeaditya/Leetcode/tree/master/1086-divisor-game) |
+| [2050-count-good-numbers](https://github.com/heyitzmeaditya/Leetcode/tree/master/2050-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/heyitzmeaditya/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Binary Search
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/heyitzmeaditya/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/heyitzmeaditya/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/heyitzmeaditya/Leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/heyitzmeaditya/Leetcode/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/heyitzmeaditya/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
 |  |
